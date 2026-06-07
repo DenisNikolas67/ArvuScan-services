@@ -7,7 +7,7 @@ Arcuscan is an autonomous robotic service designed for precise, high-resolution 
 ##  Live Website
 The project presentation website can be accessed here:
 
-### [Visit arcuscan.framer.wiki](https://arcuscan.framer.wiki)
+### [Visit arvuscan.framer.wiki](https://arvuscan.framer.wiki)
 
 ---
 
